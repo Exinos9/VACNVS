@@ -51,7 +51,6 @@ goto inicio
 :op4
 // Canbiar por su ruta de steamservice.exe \\
 "C:\Program Files (x86)\Steam\bin\steamservice.exe" /repair
-
 pause
 cls
 goto inicio
